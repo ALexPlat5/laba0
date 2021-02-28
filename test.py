@@ -1,3 +1,3 @@
 #test.py
 
-prinnt('Hello World')
+print('Hello World')
